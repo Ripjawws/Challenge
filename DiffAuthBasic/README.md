@@ -8,7 +8,6 @@
 
 > One of the considerations taken for this project was the data that needed the Frontend to display the table of stores with details correctly and correct user input when creating a new store. BasicAuth was put in place as specified in the documentation received by the client.
 
-In DiffAuthBasic is another method of AuthBasic thats a bit more complex.
 
 ## Installation
 
